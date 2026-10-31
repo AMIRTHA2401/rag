@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+.env
+data/chroma_db/
+data/documents/*
+!data/documents/.gitkeep
+frontend/node_modules/
+frontend/dist/
+
